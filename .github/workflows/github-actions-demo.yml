@@ -2,8 +2,7 @@ name: Gatsby Publish
 
 on:
   pull_request:
-    branches:
-      - dev
+    branches: master
 
 jobs:
   build:
