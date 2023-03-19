@@ -6,4 +6,5 @@ module.exports = {
     title: `My First Gatsby Site`,
   },
   plugins: ["gatsby-plugin-styled-components"],
+  pathPrefix: "/First-Gatsby-Site",
 };
